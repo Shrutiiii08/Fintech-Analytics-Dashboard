@@ -7,8 +7,8 @@ PostgreSQL
 Power BI/ Chart.js
 AWS
 
-# SIP(Systematic Investment Plan) :A method of investing a fixed amount regularly (monthly/quarterly) into mutual funds.
-# AUM(Assets Under Management) :  The total market value of investments that a financial institution (like a mutual fund, portfolio manager, or wealth management firm) manages on behalf of clients.
+ SIP(Systematic Investment Plan) :A method of investing a fixed amount regularly (monthly/quarterly) into mutual funds.
+ AUM(Assets Under Management) :  The total market value of investments that a financial institution (like a mutual fund, portfolio manager, or wealth management firm) manages on behalf of clients.
 
 
 
