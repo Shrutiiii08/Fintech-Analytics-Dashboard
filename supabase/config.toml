@@ -1,0 +1,8 @@
+project_id = "fintrend-supabase"
+
+[api]
+port = 54321
+schemas = ["public", "auth"]
+
+[db]
+port = 54322
