@@ -21,6 +21,8 @@ const NAV_ITEMS = [
   { path: '/aum', label: 'AUM Dashboard' },
   { path: '/sip', label: 'SIP Trend Analysis' },
   { path: '/heatmap', label: 'Transaction Heatmap' },
+  { path: '/aml', label: 'AML Dashboard' },
+  { path: '/compliance', label: 'Compliance Alerts' },
   { path: '/churn', label: 'Churn Predictor' },
   { path: '/reports', label: 'Report Generator' },
   { path: '/advisor', label: 'AI Allocation Advisor' },
@@ -154,6 +156,8 @@ function Sidebar({ collapsed, onToggle }) {
             if (label.includes('AUM')) return 'AD';
             if (label.includes('SIP')) return 'SA';
             if (label.includes('Heatmap')) return 'TH';
+            if (label.includes('AML')) return 'AM';
+            if (label.includes('Compliance')) return 'CA';
             if (label.includes('Churn')) return 'CP';
             if (label.includes('Report')) return 'RG';
             if (label.includes('Advisor')) return 'AA';
